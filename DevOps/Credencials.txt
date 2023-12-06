@@ -1,0 +1,13 @@
+Sandeep :
+18.139.224.103 - Ansible 
+18.138.251.250- Host1
+3.0.18.78 - Host2
+
+Charan :
+
+13.215.49.145 - Ansible
+13.213.49.125 - Host1
+54.179.163.207 - Host2
+
+Krushitha :
+
